@@ -1,54 +1,11 @@
-body{
-    background-color: lightgray;
+.size{
+    height:250px;
+    width:250px;
+    border-radius:50%;
 }
-header,div,footer{
-    text-align: center;
-    
-}
-img{
-    border-radius: 50%;
-    margin : 10px;
-    padding: 10px;
-    width : 15%;
-    height: 15%;    
-}
-header:hover{
-    background-color:darkgray;
-}
-div:hover{
-    background-color:darkgray;
-}
-footer a{
+a{
     text-decoration: none;
 }
-footer h4 i{
-    color:bisque;
+.fa:hover{
+    color:rgba(220,53,69,1)
 }
-footer a:hover{
-    color:bisque;
- }
-footer:hover{
-    background-color:darkgray;   
-}
-footer h4 i:hover{
-    text-decoration: none;
-    color:bisque;
-}
-
-
-
-
-
-
-
-
-    
-
-
-
-
-    
-
-
-
-
